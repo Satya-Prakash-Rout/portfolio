@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import abilities from "../Constants/Index.jsx";
+import { abilities } from "../Constants/Index.jsx";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
