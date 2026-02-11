@@ -51,7 +51,7 @@ const AnimatedCounter = () => {
     <section
       id="counter"
       ref={counterRef}
-      className="px-4 sm:px-6 lg:px-16 py-16 bg-gray-900"
+      className="px-4 sm:px-6 lg:px-16 py-16 bg-black"
     >
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
         {counterItems.map((item, index) => (

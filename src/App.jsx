@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import Hero from './Section/Hero'
+import AnimatedCounter from './Components/AnimatedCounter'
 import ShowcaseSection from './Section/ShowcaseSection'
 import CV from './Components/CV'
 import NavBar from './Components/NavBar'
@@ -26,7 +27,7 @@ function App() {
     
     <NavBar/>
     <Hero/>
-    
+    <AnimatedCounter/>
     <CV/>
     
     <ShowcaseSection/>

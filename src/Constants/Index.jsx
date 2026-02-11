@@ -252,18 +252,23 @@ const expLogos = [
 
 const socialImgs = [
   {
+    name: "gmail",
+    url: "https://mail.google.com/mail/?view=cm&to=satyaprakashrout1117@gmail.com",
+    imgPath: "../images/logos/gmail.jpeg",
+  },
+  {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/satyaprakash",
+    url: "https://www.linkedin.com/in/satya-prakash-rout-484513295/",
     imgPath: "../images/logos/linkedin.png",
   },
   {
     name: "github",
-    url: "https://github.com/satyaprakash",
+    url: "https://github.com/Satya-Prakash-Rout",
     imgPath: "../images/logos/github.png",
   },
   {
     name: "leetcode",
-    url: "https://leetcode.com/satyaprakash",
+    url: "https://leetcode.com/",
     imgPath: "../images/logos/leetcode.png",
   },
 ];
